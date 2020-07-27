@@ -1,0 +1,12 @@
+name: nypd
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - scipy
+  - numpy
+  - matplotlib
+  - seaborn
+  - joblib
+  - tqdm
+  - jupyter
